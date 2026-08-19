@@ -4,8 +4,8 @@ window.onhashchange=function(){jp();};
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://omg10.com/4/10961469";
+        location.href="https://idealistic-revenue.com/Ht8v1B";
     }
     function goon(){
-        location.href="https://omg10.com/4/10961469";
+        location.href="https://idealistic-revenue.com/Ht8v1B";
     }
